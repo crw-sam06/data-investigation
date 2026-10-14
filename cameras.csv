@@ -1,0 +1,11 @@
+id,heure,camera,objet,direction
+CAM001,22:37,CAM_G1,Voiture sombre,Entrée gare
+CAM002,22:44,CAM_C1,Personne avec veste sombre,Direction immeuble
+CAM003,22:45,CAM_C1,Personne inconnue,Direction appartement
+CAM004,22:50,CAM_P1,Coureur,Direction centre
+CAM005,22:52,CAM_C1,Personne avec veste sombre,Sortie immeuble
+CAM006,23:05,CAM_C2,Voiture sombre,Direction sortie centre
+CAM007,23:05,CAM_C2,Voiture ressemblant à celle de Marc,Direction sortie centre
+CAM008,23:10,CAM_B1,Sophie Laurent,Sortie bureau
+CAM009,23:20,CAM_R1,Karim Benali,Entrée restaurant
+CAM010,23:20,CAM_D1,Marc Dubois,Retour domicile

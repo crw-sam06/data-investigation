@@ -1,0 +1,25 @@
+id,heure,suspect,type_transport,lieu,latitude,longitude
+D001,21:00,S01,à pied,Domicile Alice,48.8510,2.3410
+D002,22:00,S01,à pied,Domicile Alice,48.8510,2.3410
+D003,21:00,S02,à pied,Restaurant R1,48.8500,2.3500
+D004,22:32,S02,à pied,Restaurant R1,48.8500,2.3500
+D005,22:39,S02,voiture,Centre,48.8550,2.3450
+D006,22:46,S02,voiture,Centre,48.8550,2.3450
+D007,22:52,S02,voiture,Restaurant R1,48.8500,2.3500
+D008,21:00,S03,à pied,Domicile Elodie,48.8470,2.3380
+D009,22:32,S03,voiture,Gare G1,48.8580,2.3480
+D010,22:41,S03,voiture,Centre,48.8550,2.3450
+D011,22:47,S03,à pied,Centre,48.8550,2.3450
+D012,23:05,S03,voiture,Centre,48.8550,2.3450
+D013,22:00,S04,à pied,Parc P1,48.8520,2.3420
+D014,22:30,S04,à pied,Parc P1,48.8520,2.3420
+D015,22:50,S04,à pied,Centre,48.8550,2.3450
+D016,23:10,S04,à pied,Domicile Lucas,48.8490,2.3390
+D017,21:00,S05,à pied,Bureau B1,48.8600,2.3400
+D018,22:30,S05,à pied,Bureau B1,48.8600,2.3400
+D019,23:10,S05,à pied,Bureau B1,48.8600,2.3400
+D020,23:20,S05,à pied,Domicile Sophie,48.8480,2.3360
+D021,21:00,S06,à pied,Domicile Marc,48.8460,2.3370
+D022,22:30,S06,à pied,Domicile Marc,48.8460,2.3370
+D023,23:05,S06,voiture,Centre,48.8550,2.3450
+D024,23:20,S06,voiture,Domicile Marc,48.8460,2.3370

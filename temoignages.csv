@@ -1,0 +1,7 @@
+id,suspect,heure_debut,heure_fin,lieu_declare,declaration
+T001,S01,21:00,23:47,Domicile,Je suis restée chez moi toute la soirée.
+T002,S02,21:00,23:00,Restaurant R1,J'étais au restaurant jusqu'à 23 h.
+T003,S03,22:00,23:00,Domicile,Je suis passée près de chez lui mais je ne suis pas montée.
+T004,S04,22:00,23:00,Parc P1,Je suis allé courir vers 22 h.
+T005,S05,21:00,23:00,Bureau B1,Je travaillais dans mon bureau jusqu'à 23 h.
+T006,S06,21:00,23:47,Domicile,Je n'ai pas quitté mon domicile.

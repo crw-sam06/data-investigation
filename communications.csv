@@ -1,0 +1,9 @@
+id,heure,emetteur,destinataire,type,duree,antenne
+C001,21:35,Thomas Morel,Élodie Garnier,appel,180,A01
+C002,22:18,Élodie Garnier,Thomas Morel,SMS,0,A02
+C003,22:41,Élodie Garnier,Thomas Morel,appel,35,A02
+C004,22:43,Karim Benali,Restaurant R1,appel,60,A03
+C005,22:47,Thomas Morel,Inconnu,appel,20,A02
+C006,22:51,Sophie Laurent,Thomas Morel,appel,25,A04
+C007,23:02,Marc Dubois,Thomas Morel,appel,15,A05
+C008,23:15,Alice Martin,Karim Benali,SMS,0,A06
