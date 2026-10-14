@@ -20,7 +20,7 @@ st.set_page_config(
 # ============================================================
 
 PROJECT_DIR = Path(__file__).resolve().parent.parent
-DATA_DIR = PROJECT_DIR / "data" / "raw"
+DATA_DIR = PROJECT_DIR
 
 
 # ============================================================
